@@ -11,7 +11,7 @@ It performs a quick **Exploratory Data Analysis (EDA)** and generates insightful
 - Cleans and prepares data  
 - Converts duration and stops to numeric form  
 - Displays prices with the **₹ (Indian Rupee)** symbol  
-- Exports a CSV summary and multiple plots  
+- Exports a CSV summary and multiple plots 
 
 ---
 
@@ -24,6 +24,7 @@ It performs a quick **Exploratory Data Analysis (EDA)** and generates insightful
 | **Price vs Duration** | Relationship between price and trip duration |
 | **Price by Stops** | Price variation by number of stops | 
 
+*Please see attached file
 ---
 
 ## 📊 Statistical summary
