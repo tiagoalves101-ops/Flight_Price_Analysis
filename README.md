@@ -24,7 +24,7 @@ It performs a quick **Exploratory Data Analysis (EDA)** and generates insightful
 | **Price vs Duration** | Relationship between price and trip duration |
 | **Price by Stops** | Price variation by number of stops | 
 
-*Please see attached file
+- Please see attached file
 ---
 
 ## 📊 Statistical summary
