@@ -19,10 +19,10 @@ It performs a quick **Exploratory Data Analysis (EDA)** and generates insightful
 
 | Plot | Description | Preview |
 |------|--------------|----------|
-| **Price Distribution** | Frequency of flight prices | ![Price Distribution](plot_price_distribution.png) |
-| **Average Price by Airline** | Mean price per airline | ![Average Price by Airline](plot_avg_price_by_airline.png) |
-| **Price vs Duration** | Relationship between price and trip duration | ![Price vs Duration](plot_price_vs_duration.png) |
-| **Price by Stops** | Price variation by number of stops | ![Price by Stops](plot_price_by_stops.png) |
+| **Price Distribution** | Frequency of flight prices | 
+| **Average Price by Airline** | Mean price per airline | 
+| **Price vs Duration** | Relationship between price and trip duration |
+| **Price by Stops** | Price variation by number of stops | 
 
 ---
 
