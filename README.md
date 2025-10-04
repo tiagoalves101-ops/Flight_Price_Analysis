@@ -17,8 +17,8 @@ It performs a quick **Exploratory Data Analysis (EDA)** and generates insightful
 
 ## 📊 Generated Plots
 
-| Plot | Description | Preview |
-|------|--------------|----------|
+| Plot | Description | 
+|------|--------------|
 | **Price Distribution** | Frequency of flight prices | 
 | **Average Price by Airline** | Mean price per airline | 
 | **Price vs Duration** | Relationship between price and trip duration |
