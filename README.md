@@ -40,6 +40,10 @@ It performs a quick **Exploratory Data Analysis (EDA)** and generates insightful
 
 ---
 
+📂 [Download Project File](https://github.com/tiagoalves101-ops/Flight_Price_Analysis/blob/main/flight_price.xlsx)
+
+---
+
 ## ⚙️ How to Run
 ```bash
 python flight_price_analysis.py
